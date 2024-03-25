@@ -5,6 +5,7 @@ So far even in older MD units these caps have not shown signs of leaking or fail
 
 C5 C6: 220uF 200VDC 85C 
 C24: 2200uF 35VDC 85C
+C27: 10uF 16VDC 85C
 C31: 2.2uF 250VDC 85C
 C32 C44: 1000uF 35VDC 85C
 C46 C47 C50: 220uF 35VDC 85C

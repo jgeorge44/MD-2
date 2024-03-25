@@ -1,9 +1,11 @@
 
 * MD Power Supply Information
 
+OEM: Boschert Model 0L80 4048P Assembly NUmber 010269P-02 Rev C
+
 Fuse F1: 5A 250 Fast-Acting 3AG Glass Fuse
 
-PSU PCB Input Connector
+PSU AC Input Connector
 Pin 1 on left
 1 GND
 2 Neutral
@@ -35,4 +37,6 @@ Power Supply Output Connector
 18 NC
 19 Collector of Q12, also TP1
 20 Emitter of Q12
+
+RT1: (as yet) unidentified NTC Thermistor marked 3920
 
