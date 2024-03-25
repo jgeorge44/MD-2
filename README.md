@@ -24,6 +24,8 @@ Hardware: Notes on the hardware in the MD and tips on repairing or restoring
 
 Software: Notes on MD Diskettes and contents
 
+Documentation: Sparse Documentation found elsewhere
+
 Photos: Internal and External reference photos
 
 
