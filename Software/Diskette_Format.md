@@ -24,7 +24,7 @@ The MD-S LISTVTOC utility lists the VTOC as a file on diskette with the name DIR
 Thw following is the specific diskette format, in Greaseweazle's "diskdefs" format.
 
 # This is 43FD format diskette for the MD-2
-disk ibm.8d2.sd
+```disk ibm.8d2.sd
     cyls = 77
     heads = 2
     tracks 0 ibm.fm
@@ -38,3 +38,4 @@ disk ibm.8d2.sd
         rpm = 360
     end
 end
+```
