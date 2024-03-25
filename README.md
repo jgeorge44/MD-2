@@ -22,6 +22,8 @@ This repository includes the following hopefully useful information:
 
 Hardware: Notes on the hardware in the MD and tips on repairing or restoring
 
+Software: Notes on MD Diskettes and contents
+
 Photos: Internal and External reference photos
 
 
