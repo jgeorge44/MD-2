@@ -8,6 +8,7 @@ replace them all.
 C51 C52 C53 0.22uF X2 250VAC
 Mouser replacement: MFG Part No: MPX21W3220FI00MYSD
 WIMA .22uF 275 Vac 20%  /  Safety Capacitors
+NOTE: These capacitors have slightly wider lead spacing (a few mm) so leads will have to be bent inwards then straightened parallel to fit the existing PCB holes. 
 
 C1 C2 2200pF Y 250VAC
 Mouser replacement: MFG Part No: B32021A3222K189
