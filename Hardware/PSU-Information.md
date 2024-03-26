@@ -9,12 +9,14 @@
 ```Pin 1 on left
 1 GND
 2 Neutral
-3 Line/Hot```
+3 Line/Hot
+```
 
 ### Input Voltage Selection
 ```JP1 blue jumper
 Horizontal (parallel to CR4): 110VAC
-Vertical (parallel to F1): 220VAC```
+Vertical (parallel to F1): 220VAC
+```
 
 ### Power Supply Output Connector
 ```01 +5
@@ -36,7 +38,8 @@ Vertical (parallel to F1): 220VAC```
 17 -5
 18 NC
 19 Collector of Q12, also TP1
-20 Emitter of Q12```
+20 Emitter of Q12
+```
 
 ### RT1: (as yet) unidentified NTC Thermistor marked 3920
 
