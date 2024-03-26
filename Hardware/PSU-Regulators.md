@@ -12,6 +12,7 @@ VR7: LM7912CT -12VDC Regulator TO-220 case
 
 ### Adjustments
 ```R55 is the adjustment for VR2
-R38 is the adjustment for VR3```
+R38 is the adjustment for VR3
+```
 
 ...I'd probably leave those alone.
