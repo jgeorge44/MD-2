@@ -6,7 +6,8 @@
 
 
 ## PCBs
-```6173465 A3 Card
+```
+6173465 A3 Card
 6340950 B3 Card
 6173522 C3 Card
 6173353 A2 Card (Fan Control)
@@ -16,7 +17,8 @@ xxxxxxx Planar Board
 ```
 
 ## Cables:
-```5687010 PIO Cable (Internal)
+```
+5687010 PIO Cable (Internal)
 5687016 Common Interface Cable (External)
 7838664 DC Distribution Cable (Internal)
 7838665 43FD Interface Cable (Internal)

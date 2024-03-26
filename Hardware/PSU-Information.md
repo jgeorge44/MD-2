@@ -6,20 +6,23 @@
 ### Fuse F1: 5A 250 Fast-Acting 3AG Glass Fuse
 
 ### PSU AC Input Connector
-```Pin 1 on left
+```
+Pin 1 on left
 1 GND
 2 Neutral
 3 Line/Hot
 ```
 
 ### Input Voltage Selection
-```JP1 blue jumper
+```
+JP1 blue jumper
 Horizontal (parallel to CR4): 110VAC
 Vertical (parallel to F1): 220VAC
 ```
 
 ### Power Supply Output Connector
-```01 +5
+```
+01 +5
 02 +5
 03 +5
 04 +5

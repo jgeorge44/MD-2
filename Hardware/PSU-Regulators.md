@@ -1,7 +1,8 @@
 
 # Voltage Regulators
 
-```U3: MC1723CP (LM723C equivalent) adjustable voltage regulator
+```
+U3: MC1723CP (LM723C equivalent) adjustable voltage regulator
 VR2: TL430C Adjustable Shunt Regulator unknown output
 VR3: TL430C Adjustable Shunt Regulator unknown output
 VR4: LM7812CT +12VDC Regulator TO-220 case
@@ -11,7 +12,8 @@ VR7: LM7912CT -12VDC Regulator TO-220 case
 ```
 
 ### Adjustments
-```R55 is the adjustment for VR2
+```
+R55 is the adjustment for VR2
 R38 is the adjustment for VR3
 ```
 
