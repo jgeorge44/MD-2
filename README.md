@@ -12,7 +12,7 @@ The MD includes a variety of interfaces to connect to a host of different produc
 
 The MD is "officially" known as the IBM 901X Model 2 Maintenance Device, but commonly referred to as "MD" or "MD-2".
 
-There WAS (well, *is*, a 901X Model 1 Maintenance Device, known as MD-1, and we have recently obtained a working example. This repo will be updated with pictures and differences where we can note them. The MD-1 and MD-2 run exactly the same software and have the same interfaces; the MD-1 is significantly larger (though still fits in the same size case, there's just a lot less free space.)
+There WAS (well, *is*) a 901X Model 1 Maintenance Device, known as MD-1, and we have recently obtained a working example. This repo will be updated with pictures and differences where we can note them. The MD-1 and MD-2 run exactly the same software and have the same interfaces; the MD-1 is significantly larger (though still fits in the same size case, there's just a lot less free space.)
 
 While these were common IBM diagnostic tools, they were not restricted to internal use. They were used by third-party maintainers of equipment, and the MD was manufactured in pretty large numbers (relatively speaking).
 
