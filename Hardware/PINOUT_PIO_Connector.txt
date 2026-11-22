@@ -1,0 +1,66 @@
+
+
+Card Top Cable Connector Pinout
+This view is looking at the cable connector from the bottom, pins facing you.
+
+     A/P1
+    +---+
+    |   +_+
+D02 | . . | B02
+D03 | . . | B03
+D04 | . . | B04
+D05 | . . | B05
+D06 | . . | B06
+D07 | . . | B07
+D08 | . . | B08
+D09 | . . | B09
+D10 | . . | B10
+D11 | . . | B11
+D12 | . . | B12
+D13 | . . | B13
+    |   +-+
+    +---+
+
+     A/P2
+    +---+
+    |   +_+
+J02 | . . | G02
+J03 | . . | G03
+J04 | . . | G04
+J05 | . . | G05
+J06 | . . | G06
+J07 | . . | G07
+J08 | . . | G08
+J09 | . . | G09
+J10 | . . | G10
+J11 | . . | G11
+J12 | . . | G12
+J13 | . . | G13
+    |   +-+
+    +---+
+
+PIO Connector
+Looking "in" to socket, pins facing you.
+"Pin" on top, threaded hole on bottom
+
+   o
+  .  .   A  B
+ .  .   C  D
+  .  .   E  F
+ .  .   H  J
+  .  .   K  L
+ .  .   M  N
+  .  .   P  R
+ .  .   S  T
+  .  .   U  V
+ .  .   W  X
+  .  .   Y  Z
+ .  .  AA BB
+  .  .  CC DD
+ .  .  EE FF
+  .  .  HH JJ
+ .  .  KK LL
+  .  .  MM NN
+   O
+
+B

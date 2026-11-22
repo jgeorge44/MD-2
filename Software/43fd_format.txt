@@ -1,0 +1,15 @@
+# This is 43FD format diskette for the MD-2
+disk ibm.8d2.sd
+    cyls = 77
+    heads = 2
+    tracks 0 ibm.fm
+        secs = 26
+        bps = 128
+        rpm = 360
+    end
+    tracks * ibm.fm
+        secs = 15
+        bps = 256
+        rpm = 360
+    end
+end

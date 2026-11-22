@@ -1,0 +1,57 @@
+
+
+Card Top Cable Connector Pinout
+This view is looking at the cable connector from the bottom, pins facing you.
+"x" = no pin
+
+    +---+
+    |   +-+
+D02 | x x | B02
+D03 | x x | B03
+D04 | x x | B04
+D05 | x x | B05
+D06 | x x | B06
+D07 | x . | B07
+D08 | . . | B08
+D09 | . x | B09
+D10 | . . | B10
+D11 | . . | B11
+D12 | x . | B12
+D13 | . . | B13
+    |   +-+
+    +---+
+
+R-Loop Connector
+Amphenol 
+Looking "in" to socket, pins facing you.
+Key/notch is in upper right
+
+  1  7  6
+  2  8  5
+   3  4
+
+S-Loop Connector
+Western Electric 549A Jack
+Mating Plug WE 505A
+Key right pointing UP
+Note: Numbering here is arbitrary and may not match WE specs
+
+  2   |   1
+      |
+   4     3
+
+
+Pinout
+B07 S4 (Black wire, labeled 2)
+B08 S1 (Black wire, labeled 1)
+B10 R6
+B11 R4
+B12 R5
+B13 R8
+D08 S3 (Yellow wire, labeled 2)
+D09 S2 (Yellow wire, labeled 1)
+D10 R7
+D11 R2
+D13 R3
+Frame GND R1
+

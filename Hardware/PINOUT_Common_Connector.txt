@@ -1,0 +1,64 @@
+INCOMPLETE
+
+
+Board Side Cable Connector Pinout
+This view is looking at the cable connector from the bottom
+    +---+
+    |   +-+
+D02 | . . | B02
+D03 | . . | B03
+D04 | . . | B04
+D05 | . . | B05
+D06 | . . | B06
+D07 | . . | B07
+D08 | . . | B08
+D09 | . . | B09
+D10 | . . | B10
+D11 | . . | B11
+D12 | . . | B12
+D13 | . . | B13
+    |   +-+
+    +---+
+
+Common Connector Pinout
+This view is looking into the connector with the pins pointing at you
+The connector has some pin numbering hints inside the shell
+"x" = no pin populated
+
+      -------
+ 1   / . . . \    3
+ 4  /x . . . x\   8
+ 9 |. . . . . .| 14
+15 |. . . . . .| 20
+21  \. x . x ./  25
+26   \ . . . /   28
+      -------
+
+Cable Pinout
+Missing: 10 11 16 20 21 25 26 27 28
+B02 -> 
+B03 -> 
+B04 -> 
+B05 -> 
+B06 ->  6
+B07 ->  9
+B08 ->  5
+B09 -> 13
+B10 ->  3
+B11 -> 17
+B12 ->  1
+B13 -> 
+D02 -> 19
+D03 -> 
+D04 -> 25
+D05 -> 
+D06 -> 15
+D07 -> 
+D08 -> 14
+D09 ->  7
+D10 -> 23
+D11 ->  2
+D12 -> 18
+D13 -> 12
+
+
